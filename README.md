@@ -31,3 +31,11 @@ Remote = app con
 * **Remote**: expose component cho host dùng
 
 ---
+
+```
+Topic:
+
+https://lazycodet.com/3/read/444
+
+
+```
